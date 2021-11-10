@@ -15,7 +15,7 @@ public class EventRegistrationApplication {
 
 	@RequestMapping("/")
 	public String greeting(){
-		return "Hello Nour! Ca va?";
+		return "Hello World!";
 	}
 
 }
